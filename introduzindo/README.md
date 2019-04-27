@@ -1,3 +1,2 @@
 # introduzindo Ola mundo !!!
-
-Conflito pelo Git
+Conflito no GitHub
